@@ -15,7 +15,7 @@
 #
 
 ## overlay
-DEVICE_PACKAGE_OVERLAYS += device/nvidia/wx_na_wf/overlay
+DEVICE_PACKAGE_OVERLAYS += device/nvidia/wx_na_do/overlay
 
 # Ramdisk
 PRODUCT_PACKAGES += \
