@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #set -e
-export DEVICE=shieldtabletlte
+export DEVICE=wx_na_do
 export VENDOR=nvidia
 
 if [ $# -eq 0 ]; then
