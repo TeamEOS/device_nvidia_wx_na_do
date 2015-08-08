@@ -9,7 +9,7 @@
     "remote": "github",
     "repository": "wrapped/kernel_nvidia_shieldtablet",
     "target_path": "kernel/nvidia/shieldtablet",
-    "revision": "lp5.1"
+    "revision": "lp5.1-bito"
   },
   {
     "remote": "github",
