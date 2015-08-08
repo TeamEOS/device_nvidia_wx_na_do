@@ -11,8 +11,8 @@ vendor/eos/prebuilt/common/bootanimation/1080.zip:system/media/bootanimation.zip
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=wx_na_do \
     TARGET_DEVICE=shieldtablet \
-    BUILD_FINGERPRINT="nvidia/wx_na_do/shieldtablet:5.0.1/LRX22C/29082_493.9700:user/release-keys" \
-    PRIVATE_BUILD_DESC="wx_na_do-user 5.0.1 LRX22C 29082_493.9700 release-keys"
+    BUILD_FINGERPRINT="nvidia/wx_na_do/shieldtablet:5.1.1/LMY48C/35398_567.2193:user/release-keys" \
+    PRIVATE_BUILD_DESC="wx_na_do-user 5.1.1 LMY48C 35398_567.2193 release-keys"
 
 PRODUCT_NAME := eos_wx_na_do
 PRODUCT_DEVICE := wx_na_do
